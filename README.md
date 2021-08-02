@@ -26,7 +26,9 @@ A state is safe if the system can allocate all resources requested by all proces
 
 # Procedure:
 
-Input: We need input for no. of resources and procedures from user. Then, we need three matrices from user for allocation matrix, max matrix and available matrix.
+Input: 
+
+We need input for no. of resources and procedures from user. Then, we need three matrices from user for allocation matrix, max matrix and available matrix.
 Allocation Matrix: instances allocated to process
 Max Matrix: Maximum instances required by process
 Available Matrix: Matrix available for resources
